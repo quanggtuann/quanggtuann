@@ -32,14 +32,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=quanggtuann\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanggtuann\&layout=compact\&theme=tokyonight)
-
----
-
 # 📫 Contact Me
 
 * Facebook: quang.tuan.101884
