@@ -23,44 +23,12 @@
 
 * HTML
 * CSS
-* JavaScript
-
 ## ⚙ Tools
 
 * Visual Studio
 * Git & GitHub
 * Postman
 * SQL Server Management Studio
-
----
-
-# 📌 Featured Projects
-
-## 🛒 ASP.NET Core Food Shop
-
-E-commerce website built with ASP.NET Core MVC & Web API.
-
-### Features:
-
-* User Authentication & Authorization
-* Product Management
-* Discount Campaign Management
-* Shopping Cart & Checkout
-* POS (Bán hàng tại quầy)
-* SQL Server Database
-
----
-
-## 💻 Laptop Shop WinForms
-
-Desktop management application using C# WinForms and SQL Server.
-
-### Features:
-
-* Product Management
-* Invoice Management
-* Customer Management
-* CRUD Operations
 
 ---
 
