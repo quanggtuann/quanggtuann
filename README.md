@@ -64,7 +64,7 @@
 ### 🔧 My Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,php,go,ts,kotlin,html,css,js,bootstrap,tailwind,django,dotnet,nextjs,nestjs,mysql,sqlite,git,github,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cs,ts,html,css,js,bootstrap,dotnet,mysql,git,github,docker&perline=8" />
   <br><br>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
