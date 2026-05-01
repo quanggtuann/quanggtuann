@@ -16,7 +16,7 @@
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Python**, and **React**.
+* 🎯 **Current Focus:** Crafting applications with **.NET Core**.
 
 <br>
 
