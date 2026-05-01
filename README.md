@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hey there, I'm%2C%20quanggtuann-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+  <img src="https://img.shields.io/badge/Hey there, I'm quanggtuann-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to my universe!</h1>
   <h3>Aspiring Full-Stack Developer | C# & ASP.NET Core Enthusiast | Open to Collaboration</h3>
